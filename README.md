@@ -3,7 +3,7 @@
 
 🛠️ Technical Stack:
 
-Front-end: React (MERN Stack), Angular, SASS, Bootstrap
+Front-end: React (MERN Stack), Angular, SASS, Bootstrap <br />
 Back-end: Node.js, Express.js
 Databases: MongoDB, MySQL
 Cloud: AWS, S3, Lambda
