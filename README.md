@@ -1,4 +1,4 @@
-👋 Hello there! I'm Scipio!
+👋 Hello there! I'm Scipio! <br />
 🚀 I'm a self-taught Full Stack Developer with over 3 years of hands-on experience in the tech world. I pride myself on being able to turn ideas into scalable, effective solutions using the best of technology.
 
 🛠️ Technical Stack:
