@@ -4,11 +4,11 @@
 🛠️ Technical Stack:
 
 Front-end: React (MERN Stack), Angular, SASS, Bootstrap <br />
-Back-end: Node.js, Express.js <br />
+Back-end: Springboot/Spring Framework, Node.js, Express.js <br />
 Databases: MongoDB, MySQL <br />
 Cloud: AWS, S3, Lambda <br />
 Languages: JavaScript, Java, Python <br />
-Specialties: AI & Machine Learning <br />
+Specialties: AI Models & Machine Learning <br />
 
 🌐 During my journey, I've taken on a variety of projects, ranging from simple web applications to intricate AI models. Many of my endeavors have been on a freelance basis, allowing me to cater to diverse needs and requirements of clients from different industries. <br />
 
